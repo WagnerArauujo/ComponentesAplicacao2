@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254574376267",
+    "firebase_url": "https://componentesaplicacaowagn-9c3bf.firebaseio.com",
+    "project_id": "componentesaplicacaowagn-9c3bf",
+    "storage_bucket": "componentesaplicacaowagn-9c3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254574376267:android:bd0d12c607f76ce4",
+        "android_client_info": {
+          "package_name": "br.com.wagneraraujo.componentesaplicacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254574376267-gdi2e7n77o5dnvpmhhcie6057aug45u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.wagneraraujo.componentesaplicacao",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "254574376267-6ibhure66am7h6fq2mjs8u4vub7oi4f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccOLDtLd1ojCmmXhkeHsvbP_njvsWTag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254574376267-6ibhure66am7h6fq2mjs8u4vub7oi4f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
